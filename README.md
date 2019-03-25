@@ -5,7 +5,7 @@ You can use the [editor on GitHub](https://github.com/Yrazi/Yrazi.github.io/edit
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-[My First COde](https://github.com/Yrazi/Hello-World)
+[My First COde](https://github.com/Yrazi/Hello-World/blob/master/index.html)
 
 ### Markdown
 
